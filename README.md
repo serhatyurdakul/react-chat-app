@@ -1,5 +1,5 @@
 # react-chat-app
-React chat Application.  React and Firebase were used in the development of this messaging application and SASS was used as the CSS preprocessor.
+React chat Application.  React and Firebase were used in the development of this messaging application and SASS/SCSS was used as the CSS preprocessor.
 
 
 # Getting Started with Create React App
