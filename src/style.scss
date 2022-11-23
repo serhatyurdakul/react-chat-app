@@ -225,6 +225,36 @@
         height: 50px;
         background: white;
         padding: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        input {
+          width: 100%;
+          border: none;
+          outline: none;
+          color: darkslategray;
+          font-size: 18px;
+          &::placeholder {
+            color: lightgray;
+          }
+        }
+        .send {
+          display: flex;
+          align-items: center;
+          gap: 10px;
+          img {
+            height: 24px;
+            cursor: pointer;
+          }
+
+          button {
+            border: none;
+            padding: 10px 15px;
+            background-color: #2d78da;
+            color: white;
+            border-radius: 3px;
+          }
+        }
       }
     }
   }
