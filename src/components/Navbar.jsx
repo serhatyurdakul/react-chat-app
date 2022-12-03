@@ -1,5 +1,5 @@
-import { signOut } from "firebase/auth";
 import React from "react";
+import { signOut } from "firebase/auth";
 import { auth } from "../firebase";
 
 const Navbar = () => {
