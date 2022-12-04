@@ -3,7 +3,7 @@ import { useNavigate, Link } from "react-router-dom";
 import { signInWithEmailAndPassword } from "firebase/auth";
 import { auth } from "../firebase";
 
-export const Login = () => {
+const Login = () => {
   const [err, setErr] = useState(false);
   const navigate = useNavigate();
 
@@ -25,10 +25,9 @@ export const Login = () => {
         <span className="logo">Chat App</span>
         <span className="title">Login</span>
         <form onSubmit={handleSubmit}>
-          <input autoFocus type="email" placeholder="email" />
+          <input type="email" placeholder="email" />
           <input type="password" placeholder="password" />
-
-          <button>Sign In</button>
+          <button>Sign in</button>
           {err && <span>Something went wrong</span>}
         </form>
         <p>
