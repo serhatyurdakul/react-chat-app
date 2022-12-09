@@ -9,7 +9,7 @@ You can use the application from the link [https://react-chat-app-serhat-yurdaku
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ## Available Scripts
 
