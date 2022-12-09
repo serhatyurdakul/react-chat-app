@@ -1,7 +1,7 @@
 # react-chat-app
 React chat Application.  React and Firebase were used in the development of this messaging application and SASS/SCSS was used as the CSS preprocessor.
 
-This application has been developed with the help of an educational video of the Lama Dev youtube channel at the link [https://www.youtube.com/watch?v=k4mjF4sPITE](https://www.youtube.com/watch?v=k4mjF4sPITE) for practical purposes. \
+This application has been developed with the help of an educational video of the Lama Dev youtube channel at the link [https://www.youtube.com/watch?v=k4mjF4sPITE](https://www.youtube.com/watch?v=k4mjF4sPITE) for practical purposes.\
 
 Changes have been made to the visual design.
 
