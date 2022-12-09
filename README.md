@@ -5,11 +5,11 @@ This application has been developed with the help of an educational video of the
 
 Changes have been made to the visual design.
 
-You can use the application from the link [https://react-chat-app-serhat-yurdakul.vercel.app/](https://react-chat-app-serhat-yurdakul.vercel.app/).
+You can use the application from the link [https://react-chat-app-serhat-yurdakul.vercel.app/](https://react-chat-app-serhat-yurdakul.vercel.app/)
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
